@@ -2,12 +2,22 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+# https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+# https://epg.pw/test_channel_page.html
+# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+# https://live.hacks.tools/tv/iptv6.txt
+# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
+# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
+# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
+# https://pastebin.com/raw/V0BhYHF4
+# https://gh-proxy.com/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 https://t.freetv.fun/m3u/playlist.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
@@ -21,18 +31,8 @@ https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 https://gitee.com/rgzyyuncang/vip/raw/master/jars/quanq.png
 https://ghfast.top/https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/iptv.m3u
 
-# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-# https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-# https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-# https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
-# https://epg.pw/test_channel_page.html
-# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-# https://live.hacks.tools/tv/iptv6.txt
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/几万电影频道.m3u
-# https://gh.catmak.name/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/全球直播.m3u
-# https://pastebin.com/raw/V0BhYHF4
-# https://gh-proxy.com/raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+# https://raw.githubusercontent.com/cymz6/AutoIPTV-Hotel/main/lives.m3u
+# https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
